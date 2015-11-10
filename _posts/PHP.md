@@ -1,6 +1,6 @@
 title: PHP相关
-categories: PHP
-tags: [tech]
+categories: TECH
+tags: [PHP]
 ---
 
 
