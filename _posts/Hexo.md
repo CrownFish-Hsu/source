@@ -38,14 +38,14 @@ $ hexo deploy
 
 More info: [Deployment](http://hexo.io/docs/deployment.html)
 
-###以上命令都可以简写
+### 以上命令都可以简写
 ``` bash
 $ hexo g
 $ hexo s
 $ hexo d
 ```
 
-###遇到的问题
+### 遇到的问题
 _config.yml文件内容：
 ```yaml
 # Deployment
@@ -62,7 +62,7 @@ repository: git@github.com:<uesrname>/<uesrname>.github.io.git
 修改为：
 repository: https://github.com/<uesrname>/<uesrname>.github.io.git，
 还有的说是版本问题：
-####查看版本 （windows和Mac都是V_3.1）
+#### 查看版本 （windows和Mac都是V_3.1）
 ```
 hexo -v
 ##hexo: 3.1.1
