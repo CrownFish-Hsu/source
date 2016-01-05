@@ -2,7 +2,7 @@ title: Composer初始化
 categories: TECH
 tags: [PHP, Composer]
 ---
-### Composer[http://docs.phpcomposer.com/]
+### [Composer](http://docs.phpcomposer.com/)
 - 之前一直听说和使用compose，最近开始研究composer。Composer 类似于包管理器，但它在每个项目的基础上进行管理，在你项目的某个目录中（例如 vendor）进行安装。默认情况下它不会在全局安装任何东西。因此，这仅仅是一个依赖管理。
 
 ### 搭建Composer，以及遇到的问题
@@ -63,4 +63,4 @@ No license specified, it is recommended to do so. For closed-source software you
 }
 ```
 
-##### 遇到的问题基本都解决了，环境也搭建好了，接下来就能使用composer了。感谢作者Rob [https://github.com/alcohol?tab=activity] 耐心解答所有使用者的问题，收获良多。
+##### 遇到的问题基本都解决了，环境也搭建好了，接下来就能使用composer了。感谢作者[Rob](https://github.com/alcohol?tab=activity) 耐心解答所有使用者的问题，收获良多。
