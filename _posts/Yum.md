@@ -63,3 +63,5 @@ done
 
 重装完毕以后运行yum可以正常运行了。
 
+参考: http://www.phpvim.net/journal/centos-repair-yum-service.html
+
